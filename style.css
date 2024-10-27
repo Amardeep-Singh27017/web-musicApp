@@ -258,7 +258,7 @@
 
 @media only screen and (max-width: 400px) {
     .music_player { 
-        width: 100%;
+        width: 99%;
         height: 75%;    
     }
     .banner_img{
